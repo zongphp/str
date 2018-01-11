@@ -1,0 +1,19 @@
+{
+  "name": "zongphp/str",
+  "description": "str组件",
+  "keywords": [
+    "zongphp",
+    "str"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\str\\": "src"
+    }
+  }
+}
